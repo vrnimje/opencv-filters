@@ -44,7 +44,8 @@ make [or ninja]
 
         Reference: \
         $\sigma$ = standard deviation \
-        ![Gaussian function](./assets/gaussian.png)
+        ![image](https://github.com/vrnimje/opencv-filters/blob/5700144ab64a6a614e121610deb92afa134f4f83/assets/gaussian.png)
+
     
     - For the **Sobel Y and X filters**, the function
         ```
